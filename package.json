@@ -1,0 +1,9 @@
+{
+  "name": "node-ts-express-rollup-sample",
+  "version": "1.0.0",
+  "description": "node sample application with TypeScript, express + rollup, and supertest for testing",
+  "main": "main.ts",
+  "repository": "git@github.com:croesnick/node-ts-express-rollup-sample.git",
+  "author": "Carsten Rösnick-Neugebauer <croesnick@gmail.com>",
+  "license": "MIT"
+}
